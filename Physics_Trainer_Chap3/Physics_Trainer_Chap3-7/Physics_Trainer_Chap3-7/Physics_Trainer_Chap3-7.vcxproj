@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{418f3efe-62aa-4f83-ba1b-05d7b93fba43}</ProjectGuid>
-    <RootNamespace>PhysicsTrainerChap319</RootNamespace>
+    <ProjectGuid>{78f718e7-217e-4d5a-9e04-e7c2d5a0b209}</ProjectGuid>
+    <RootNamespace>PhysicsTrainerChap37</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Physics_Trainer_Chap3-19.cpp" />
+    <ClCompile Include="Physics_Trainer_Chap3-7.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
